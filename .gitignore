@@ -1,0 +1,9 @@
+# Large reference documents
+ref/
+
+.claude/settings.local.json
+# macOS system files
+.DS_Store
+
+# Avoid accidentally committing large files
+*.docx
